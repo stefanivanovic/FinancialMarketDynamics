@@ -1,4 +1,4 @@
-# FinancialMarketDynamics
+# Deep Unsupervised Learning and Financial Market Dynamics
 Applying Deep Unsupervised Learning to understand changing financial market dynamics
 
 GANs, Flows, and autoregressive models are used to model financial market ITCH data. 
